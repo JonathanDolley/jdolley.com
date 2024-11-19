@@ -1,6 +1,6 @@
 baseURL: https://jdolley.com/
 languageCode: en-us
-title: Personal website of Jonathan Dolley
+title: Jonathan Dolley
 
 module:
   imports:
@@ -41,6 +41,7 @@ enableEmoji: true
 
 # Site parameters
 params:
+  background: "images/title-banner_full.png"
   # GitHub repo URL of your site
   gitRepo: https://github.com/JonathanDolley/jdolley.com
 
