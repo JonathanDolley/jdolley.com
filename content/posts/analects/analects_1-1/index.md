@@ -6,6 +6,7 @@ menu:
   sidebar:
     name: 1-1 Study
     identifier: analects_1-1
+    parent: analects
     weight: 10
 tags: ["Analects", "Confucius"]
 categories: ["Basic"]
