@@ -5,7 +5,7 @@ description: The Analects
 menu:
   sidebar:
     name: Study 1-1
-    identifier: thefirst
+    identifier: study1-1
     weight: 10
 tags: ["Analects", "Confucius"]
 categories: ["Basic"]
