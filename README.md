@@ -21,3 +21,4 @@ module:
 6. hugo mod npm pack
 7. npm install
 
+Publish by committing changes to github.
